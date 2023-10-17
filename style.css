@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+}
+header {
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lista {
+    display: flex;
+    list-style: none;
+}
+.item {
+    padding: 20px;
+}
+.link {
+    text-decoration: none;
+    color: aliceblue;
+}
